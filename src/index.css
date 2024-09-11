@@ -1,5 +1,13 @@
 body {
-  margin: 0;
+  width: 1280px; /* Your desired fixed width */
+    height: 720px; /* Your desired fixed height */
+    margin: 0 auto; /* Center the content */
+    overflow-y: hidden;
+    overflow-x: auto; 
+    background-image: url('bg.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: round;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;

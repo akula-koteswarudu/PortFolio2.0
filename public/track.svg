@@ -1,0 +1,97 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m53.33,174l80.67,-58.67c0,0 31.33,-26.67 61.33,0c30,26.67 59.33,54 58.67,54c-0.67,0 34,35.33 61.33,0c27.33,-35.33 44.67,-58 44,-58c-0.67,0 27.33,-34.67 58.67,-2c31.33,32.67 52.67,53.33 52,53.33c-0.67,0 32.67,36.67 57.33,0c24.67,-36.67 48.67,-75.33 48.67,-75.33" fill="#000000" fill-opacity="0" id="svg_13" stroke="#ff7f00" stroke-width="2"/>
+  <path d="m88,218.67l62,-47.33c0,0 16,-16 29.33,-2.67c13.33,13.33 44,40 44,40c0,0 54.67,48 116,0" fill="#000000" fill-opacity="0" id="svg_17" stroke="#ff7f00" stroke-width="2"/>
+  <path d="m338.67,208c0,0 38,-47.33 38,-47.33c0,0 14,-15.33 27.33,-2c13.33,13.33 59.33,54.67 58.67,54.67c-0.67,0 41.33,28 76.67,-2.67" fill="#000000" fill-opacity="0" id="svg_22" stroke="#ff7f00" stroke-width="2"/>
+  <path d="m538.67,210.67c0,0 73.33,-93.33 72.67,-93.33l-72.67,93.33z" fill="#000000" fill-opacity="0" id="svg_24" stroke="#ff7f00" stroke-width="2"/>
+  <line fill="none" fill-opacity="0" id="svg_25" stroke="#ff7f00" stroke-width="2" x1="56" x2="92" y1="170.67" y2="214.67"/>
+  <line fill="none" fill-opacity="0" id="svg_26" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="92" x2="92" y1="214.67" y2="214.67"/>
+  <line fill="none" fill-opacity="0" id="svg_27" stroke="#ff7f00" stroke-width="2" x1="64" x2="98.67" y1="166.67" y2="209.33"/>
+  <line fill="none" fill-opacity="0" id="svg_28" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="98.67" x2="98.67" y1="209.33" y2="209.33"/>
+  <line fill="none" fill-opacity="0" id="svg_30" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="112.67" x2="112.67" y1="196.67" y2="196.67"/>
+  <line fill="none" fill-opacity="0" id="svg_31" stroke="#ff7f00" stroke-width="2" x1="78" x2="112.67" y1="156" y2="198.67"/>
+  <line fill="none" fill-opacity="0" id="svg_32" stroke="#ff7f00" stroke-width="2" x1="86.67" x2="120" y1="150.67" y2="193.33"/>
+  <line fill="none" fill-opacity="0" id="svg_37" stroke="#ff7f00" stroke-width="2" x1="100.67" x2="134.67" y1="138.67" y2="180.67"/>
+  <line fill="none" fill-opacity="0" id="svg_38" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="134.67" x2="134.67" y1="180.67" y2="180.67"/>
+  <line fill="none" fill-opacity="0" id="svg_43" stroke="#ff7f00" stroke-width="2" x1="109.33" x2="143.33" y1="132" y2="174.67"/>
+  <line fill="none" fill-opacity="0" id="svg_44" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="143.33" x2="143.33" y1="174.67" y2="174.67"/>
+  <line fill="none" fill-opacity="0" id="svg_47" stroke="#ff7f00" stroke-width="2" x1="130.67" x2="155.33" y1="117.33" y2="165.33"/>
+  <line fill="none" fill-opacity="0" id="svg_48" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="155.33" x2="155.33" y1="165.33" y2="165.33"/>
+  <line fill="none" fill-opacity="0" id="svg_49" stroke="#ff7f00" stroke-width="2" x1="142" x2="166" y1="111.33" y2="162"/>
+  <line fill="none" fill-opacity="0" id="svg_50" stroke="#ff7f00" stroke-width="2" x1="167.33" x2="175.33" y1="104" y2="164.67"/>
+  <line fill="none" fill-opacity="0" id="svg_51" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="175.33" x2="175.33" y1="164.67" y2="164.67"/>
+  <line fill="none" fill-opacity="0" id="svg_52" stroke="#ff7f00" stroke-width="2" x1="178.67" x2="184.67" y1="106" y2="172.67"/>
+  <line fill="none" fill-opacity="0" id="svg_53" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="184.67" x2="184.67" y1="172.67" y2="172.67"/>
+  <line fill="none" fill-opacity="0" id="svg_54" stroke="#ff7f00" stroke-width="2" x1="202.67" x2="190.67" y1="120.67" y2="178"/>
+  <line fill="none" fill-opacity="0" id="svg_55" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="190.67" x2="190.67" y1="178" y2="178"/>
+  <line fill="none" fill-opacity="0" id="svg_56" stroke="#ff7f00" stroke-width="2" x1="212" x2="198.67" y1="130" y2="185.33"/>
+  <line fill="none" fill-opacity="0" id="svg_57" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="198.67" x2="198.67" y1="185.33" y2="185.33"/>
+  <line fill="none" fill-opacity="0" id="svg_58" stroke="#ff7f00" stroke-width="2" x1="226.67" x2="212" y1="143.33" y2="196.67"/>
+  <line fill="none" fill-opacity="0" id="svg_59" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="212" x2="212" y1="196.67" y2="196.67"/>
+  <line fill="none" fill-opacity="0" id="svg_60" stroke="#ff7f00" stroke-width="2" x1="235.33" x2="220.67" y1="152" y2="204.67"/>
+  <line fill="none" fill-opacity="0" id="svg_61" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="220.67" x2="220.67" y1="204.67" y2="204.67"/>
+  <line fill="none" fill-opacity="0" id="svg_62" stroke="#ff7f00" stroke-width="2" x1="250.67" x2="236.67" y1="166.67" y2="216"/>
+  <line fill="none" fill-opacity="0" id="svg_63" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="236.67" x2="236.67" y1="216" y2="216"/>
+  <line fill="none" fill-opacity="0" id="svg_64" stroke="#ff7f00" stroke-width="2" x1="260.67" x2="246.67" y1="174.67" y2="222"/>
+  <line fill="none" fill-opacity="0" id="svg_65" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="246.67" x2="246.67" y1="222" y2="222"/>
+  <line fill="none" fill-opacity="0" id="svg_66" stroke="#ff7f00" stroke-width="2" x1="270.67" x2="264.67" y1="182" y2="227.33"/>
+  <line fill="none" fill-opacity="0" id="svg_67" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="264.67" x2="264.67" y1="227.33" y2="227.33"/>
+  <line fill="none" fill-opacity="0" id="svg_68" stroke="#ff7f00" stroke-width="2" x1="280.67" x2="275.33" y1="183.33" y2="228"/>
+  <line fill="none" fill-opacity="0" id="svg_69" stroke="#ff7f00" stroke-width="2" x1="291.33" x2="295.33" y1="184" y2="228"/>
+  <line fill="none" fill-opacity="0" id="svg_70" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="295.33" x2="295.33" y1="228" y2="228"/>
+  <line fill="none" fill-opacity="0" id="svg_71" stroke="#ff7f00" stroke-width="2" x1="301.33" x2="306" y1="181.33" y2="225.33"/>
+  <line fill="none" fill-opacity="0" id="svg_72" stroke="#ff7f00" stroke-width="2" x1="313.33" x2="324" y1="172" y2="218"/>
+  <line fill="none" fill-opacity="0" id="svg_73" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="324" x2="324" y1="218" y2="218"/>
+  <line fill="none" fill-opacity="0" id="svg_74" stroke="#ff7f00" stroke-width="2" x1="319.33" x2="332" y1="164.67" y2="212.67"/>
+  <line fill="none" fill-opacity="0" id="svg_75" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="332" x2="332" y1="212.67" y2="212.67"/>
+  <line fill="none" fill-opacity="0" id="svg_76" stroke="#ff7f00" stroke-width="2" x1="327.33" x2="346" y1="152" y2="198"/>
+  <line fill="none" fill-opacity="0" id="svg_77" stroke="#ff7f00" stroke-width="2" x1="334.67" x2="353.33" y1="146" y2="188.67"/>
+  <line fill="none" fill-opacity="0" id="svg_78" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="353.33" x2="353.33" y1="188.67" y2="188.67"/>
+  <line fill="none" fill-opacity="0" id="svg_79" stroke="#ff7f00" stroke-width="2" x1="343.33" x2="365.33" y1="132" y2="174"/>
+  <line fill="none" fill-opacity="0" id="svg_80" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="365.33" x2="365.33" y1="174" y2="174"/>
+  <line fill="none" fill-opacity="0" id="svg_81" stroke="#ff7f00" stroke-width="2" x1="350" x2="372" y1="123.33" y2="164.67"/>
+  <line fill="none" fill-opacity="0" id="svg_82" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="372" x2="372" y1="164.67" y2="164.67"/>
+  <line fill="none" fill-opacity="0" id="svg_83" stroke="#ff7f00" stroke-width="2" x1="360" x2="380.67" y1="108" y2="155.33"/>
+  <line fill="none" fill-opacity="0" id="svg_84" stroke="#ff7f00" stroke-width="2" x1="370" x2="390.67" y1="102" y2="152"/>
+  <line fill="none" fill-opacity="0" id="svg_85" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="390.67" x2="390.67" y1="152" y2="152"/>
+  <line fill="none" fill-opacity="0" id="svg_86" stroke="#ff7f00" stroke-width="2" x1="395.33" x2="397.33" y1="95.33" y2="152.67"/>
+  <line fill="none" fill-opacity="0" id="svg_87" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="397.33" x2="397.33" y1="152.67" y2="152.67"/>
+  <line fill="none" fill-opacity="0" id="svg_88" stroke="#ff7f00" stroke-width="2" x1="406.67" x2="406" y1="100" y2="159.33"/>
+  <line fill="none" fill-opacity="0" id="svg_89" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="406" x2="406" y1="159.33" y2="159.33"/>
+  <line fill="none" fill-opacity="0" id="svg_90" stroke="#ff7f00" stroke-width="2" x1="423.33" x2="418.67" y1="113.33" y2="172"/>
+  <line fill="none" fill-opacity="0" id="svg_91" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="418.67" x2="418.67" y1="172" y2="172"/>
+  <line fill="none" fill-opacity="0" id="svg_92" stroke="#ff7f00" stroke-width="2" x1="432.67" x2="427.33" y1="122.67" y2="179.33"/>
+  <line fill="none" fill-opacity="0" id="svg_93" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="427.33" x2="427.33" y1="179.33" y2="179.33"/>
+  <line fill="none" fill-opacity="0" id="svg_94" stroke="#ff7f00" stroke-width="2" x1="446.67" x2="439.33" y1="137.33" y2="190.67"/>
+  <line fill="none" fill-opacity="0" id="svg_95" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="439.33" x2="439.33" y1="190.67" y2="190.67"/>
+  <line fill="none" fill-opacity="0" id="svg_96" stroke="#ff7f00" stroke-width="2" x1="455.33" x2="446.67" y1="146" y2="198"/>
+  <line fill="none" fill-opacity="0" id="svg_97" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="446.67" x2="446.67" y1="198" y2="198"/>
+  <line fill="none" fill-opacity="0" id="svg_98" stroke="#ff7f00" stroke-width="2" x1="468.67" x2="458" y1="158.67" y2="208"/>
+  <line fill="none" fill-opacity="0" id="svg_99" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="458" x2="458" y1="208" y2="208"/>
+  <line fill="none" fill-opacity="0" id="svg_100" stroke="#ff7f00" stroke-width="2" x1="477.33" x2="466" y1="168.67" y2="214.67"/>
+  <line fill="none" fill-opacity="0" id="svg_101" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="466" x2="466" y1="214.67" y2="214.67"/>
+  <line fill="none" fill-opacity="0" id="svg_102" stroke="#ff7f00" stroke-width="2" x1="489.33" x2="482.67" y1="176.67" y2="220.67"/>
+  <line fill="none" fill-opacity="0" id="svg_103" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="482.67" x2="482.67" y1="220.67" y2="220.67"/>
+  <line fill="none" fill-opacity="0" id="svg_104" stroke="#ff7f00" stroke-width="2" x1="499.33" x2="494" y1="178.67" y2="223.33"/>
+  <line fill="none" fill-opacity="0" id="svg_105" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="494" x2="494" y1="223.33" y2="223.33"/>
+  <line fill="none" fill-opacity="0" id="svg_106" stroke="#ff7f00" stroke-width="2" x1="511.33" x2="516.67" y1="176" y2="222"/>
+  <line fill="none" fill-opacity="0" id="svg_107" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="516.67" x2="516.67" y1="222" y2="222"/>
+  <line fill="none" fill-opacity="0" id="svg_108" stroke="#ff7f00" stroke-width="2" x1="520.67" x2="528.67" y1="171.33" y2="217.33"/>
+  <line fill="none" fill-opacity="0" id="svg_109" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="528.67" x2="528.67" y1="217.33" y2="217.33"/>
+  <line fill="none" fill-opacity="0" id="svg_110" stroke="#ff7f00" stroke-width="2" x1="528" x2="546" y1="160.67" y2="200"/>
+  <line fill="none" fill-opacity="0" id="svg_111" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="546" x2="546" y1="200" y2="200"/>
+  <line fill="none" fill-opacity="0" id="svg_112" stroke="#ff7f00" stroke-width="2" x1="534" x2="552.67" y1="151.33" y2="191.33"/>
+  <line fill="none" fill-opacity="0" id="svg_113" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="552.67" x2="552.67" y1="191.33" y2="191.33"/>
+  <line fill="none" fill-opacity="0" id="svg_114" stroke="#ff7f00" stroke-width="2" x1="542" x2="562" y1="140" y2="179.33"/>
+  <line fill="none" fill-opacity="0" id="svg_115" stroke="#ff7f00" stroke-width="2" x1="547.33" x2="568.67" y1="131.33" y2="170.67"/>
+  <line fill="none" fill-opacity="0" id="svg_116" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="568.67" x2="568.67" y1="170.67" y2="170.67"/>
+  <line fill="none" fill-opacity="0" id="svg_117" stroke="#ff7f00" stroke-width="2" x1="554.67" x2="578.67" y1="120.67" y2="158"/>
+  <line fill="none" fill-opacity="0" id="svg_118" stroke="#ff7f00" stroke-width="2" x1="560.67" x2="585.33" y1="112" y2="149.33"/>
+  <line fill="none" fill-opacity="0" id="svg_119" stroke="#ff7f00" stroke-width="2" x1="568.67" x2="596.67" y1="99.33" y2="134.67"/>
+  <line fill="none" fill-opacity="0" id="svg_120" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="596.67" x2="596.67" y1="134.67" y2="134.67"/>
+  <line fill="none" fill-opacity="0" id="svg_122" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="604" x2="604" y1="126" y2="126"/>
+  <line fill="none" fill-opacity="0" id="svg_124" stroke="#ff7f00" stroke-width="2" x1="573.33" x2="603.33" y1="92" y2="126"/>
+  <line fill="none" fill-opacity="0" id="svg_125" opacity="0.5" stroke="#ff7f00" stroke-width="2" x1="603.33" x2="603.33" y1="126" y2="126"/>
+ </g>
+</svg>
